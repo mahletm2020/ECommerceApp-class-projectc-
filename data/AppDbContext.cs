@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace ECommerceApp.Data
 {
@@ -9,6 +10,15 @@ namespace ECommerceApp.Data
         // Define your database tables here
         public DbSet<Product> Products { get; set; }
     }
+
+
+// public class ApplicationDbContext : IdentityDbContext<Microsoft.AspNetCore.Identity.IdentityUser>
+// {
+//     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+//         : base(options)
+//     {
+//     }
+// }
 
     public class Product
     {

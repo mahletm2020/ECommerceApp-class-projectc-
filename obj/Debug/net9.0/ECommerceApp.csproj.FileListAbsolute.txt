@@ -128,3 +128,13 @@ C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\front\server\tsconfig.json
 C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\front\tsconfig.json
 C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\package-lock.json
 C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\package.json
+C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Downloads\ECommerceApp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Downloads\ECommerceApp\obj\Debug\net9.0\ECommerceApp.sourcelink.json
